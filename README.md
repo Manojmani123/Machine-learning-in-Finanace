@@ -1,1 +1,3 @@
-# ml-in-finance
+# Machine Learning In Finance
+Semister 1
+
