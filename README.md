@@ -1,2 +1,1 @@
-# ml-in-finance-main
-sem1
+# ml-in-finance
